@@ -8,6 +8,7 @@ namespace ProjetoTesteGit
         {
             Console.WriteLine("Olá Mundo - Teste Utilização do Git!");
             Console.WriteLine("Teste alterar mensagem no GIT!");
+            Console.WriteLine("TESTE");
         }
     }
 }
